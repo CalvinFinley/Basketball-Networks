@@ -1,0 +1,7 @@
+* Processing rebound location data
+* Create rebound zone application
+* Add censoring for foul data
+* Points scored against networks
+* Animate networks that change throughout the course of a game
+* NCAAW play-by-play scraper tool
+* Prize picks data selection
